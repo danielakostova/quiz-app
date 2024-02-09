@@ -1,0 +1,77 @@
+body {   
+ border-image-outset: 10px;                                            
+ background-color: rgb(255, 255, 255);
+}
+.card 
+    {
+    border: solid;
+    border:1rem solid ;
+    border-width: 10px;
+    background-color: blanchedalmond;
+    border-bottom: 3px;
+    border-radius: 10px;
+    gap: 10px;
+    display: flex;
+    flex-direction: column; 
+    padding:20px;
+    justify-content: space-between;
+    align-items: center;
+}
+    footer { 
+    text-decoration-color: black;
+    text-align: center;
+    background-color: rgb(165, 101, 42);
+    justify-content:space-around;
+     align-items:center;
+    display: flex;
+    padding: 10px;
+    }
+
+ h1 { 
+    text-align: center
+
+
+ }
+       
+
+    
+ 
+
+
+
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+;
+
+
+
+
+
+
+
+
+
+
+
